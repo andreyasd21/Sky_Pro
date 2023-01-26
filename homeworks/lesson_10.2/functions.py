@@ -12,7 +12,7 @@ def get_all():
 
 def get_candidate_by_pk(pk):
     for candidate in load_candidates():
-        if candidate['id'] == pk:
+        if candidate['pk'] == pk:
             return candidate
     return
 
