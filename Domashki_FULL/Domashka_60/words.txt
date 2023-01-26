@@ -1,0 +1,12 @@
+python
+squirrel
+flask
+cucumbers
+three
+cat
+home
+computer
+disk
+book
+bratushka
+aircraft
